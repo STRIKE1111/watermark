@@ -1,6 +1,6 @@
 # Watermarkhub
 
-This repository contains the code for the Paper: ***WatermarkHub: A Universal and Automated Watermarking Technique for Data Marketplace***.
+This repository contains the code for the Paper: ***WatermarkHub: A Robust and Automated Watermark Agent for Online Data Platform***.
 
 <!-- Due to time constraints, this code submission was made hastily, but the core code is included. **We assure that we will update the code and documentation with more user-friendly versions as soon as possible.** -->
 
@@ -63,4 +63,5 @@ The verification module provides three core functionalities:
 
 ```bash
 python verification_enhanced.py
+
 ```
